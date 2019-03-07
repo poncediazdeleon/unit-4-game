@@ -1,0 +1,29 @@
+.jumbotron {
+    background-color: purple;
+    background-size: cover;
+    
+  }
+  
+  .jumbotron h1 {
+    color: #000;
+    text-shadow: 3px 3px #fff;
+  
+  }
+  
+  .instructions {
+    text-align: center; 
+  }
+  
+  .p {
+    text-align: center;
+  }
+
+  .h3 {
+    text-align: center;
+
+  }
+  
+  .win {
+    text-align: center
+  }
+  
